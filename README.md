@@ -1,4 +1,6 @@
-# AppStore
+# AppStore Dashboard and Visualizations
+
+![Dashboard 1](https://github.com/zemarloper/AppStore/assets/87685877/38f7036a-d83d-4156-9507-854270ce1763)
 
 ![binnedcorr](https://github.com/zemarloper/AppStore/assets/87685877/5fd8e9b8-6b3d-4173-aa72-2f8e8454c322)
 ![corr](https://github.com/zemarloper/AppStore/assets/87685877/de929f6c-3f97-4436-9a12-3301de1e7454)
